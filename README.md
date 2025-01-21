@@ -1,4 +1,3 @@
-# psbo_snowstar
 # Server Emulator for Snowbound Online / Project Powder
 ## PSBO | SnowStar
 
