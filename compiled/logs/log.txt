@@ -1,0 +1,17 @@
+﻿[250121 181421] --------------------------------------------------
+[250121 181421] ProjectSnowflake [FUN VERSION] 0.72
+[250121 181421] https://ko-fi.com/karlmaster
+[250121 181421] --------------------------------------------------
+[250121 181421] Timer: 10675.2 days 0x36f9bfb3
+[main ] [250121 181421] Exp rate: 8x
+[main ] [250121 181421] Pro rate: 8x
+[main ] [250121 181421] Map Events:
+[main ] [250121 181421] Drop event is off
+[main ] [250121 181421] Game ip: 127.0.0.1(127.0.0.1)
+[mysql] [250121 181421] Mysql threadsafe: yes
+[mysql] [250121 181421] Mysql client version: 60106
+[mysql] [250121 181421] Mysql client information: 6.1.6
+[mysql] [250121 181424] Connecting to mysql on host 127.0.0.1 database psbodbfailed for user root
+[mysql] [250121 181424] 2003: Can't connect to MySQL server on '127.0.0.1' (10061)
+[mysql] [250121 181427] Connecting to mysql on host 127.0.0.1 database psbodbfailed for user root
+[mysql] [250121 181427] 2003: Can't connect to MySQL server on '127.0.0.1' (10061)
